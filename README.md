@@ -1,4 +1,4 @@
 # emailParser
 
 
-./main email='<raw html>'
+./main email='/raw html/'
